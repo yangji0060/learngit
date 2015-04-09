@@ -1,1 +1,2 @@
 The file is attested that git does work
+add information to test git
